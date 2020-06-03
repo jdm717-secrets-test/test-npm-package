@@ -6,10 +6,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://jdm717-secrets-test@github.com/jdm717-secrets-test/test-npm-package.git"
-  },
   "license": "UNLICENSED",
-  "homepage": "https://github.com/jdm717-secrets-test/test-npm-package#readme"
 }
